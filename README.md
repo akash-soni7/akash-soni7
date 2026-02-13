@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineering  <br>📊 Data Analysis  <br>🐍 Python  <br>🤖 AI | Machine Learning | Prompt Engineering  <br>Building. Learning. Improving daily.
+💻 Software Engineer <br>📊 Data Analysis  <br>🐍 Python  <br>🤖 AI | Machine Learning | Prompt Engineering  <br>Building. Learning. Improving daily.
 
 
 ## 🌐 Socials:
